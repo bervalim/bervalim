@@ -9,3 +9,5 @@
 
 ![bervalim GitHub stats](https://github-readme-stats.vercel.app/api?username=bervalim&show_icons=true&theme=dark)
 
+## Technologies:
+[![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
