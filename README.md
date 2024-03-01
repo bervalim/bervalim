@@ -19,9 +19,3 @@
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![PostgreeSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bervalim&hide_progress=false)
-
-
-
-
