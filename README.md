@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @bervalim, a full stack developer
-- 👀 I have been studyng programing at Kenzie Academy Brasil since 2023
-- 🌱 I am passionated about learning new programming skills
+- 👋 Olá, Sou o @bervalim, desenvolvedor full-stack
+- 🌱 Sou apaixonado por aprender novas habilidades de programação
+  
 
 
 ## My Links:
